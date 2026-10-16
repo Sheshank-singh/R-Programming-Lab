@@ -1,8 +1,8 @@
 # R Programming Lab
 
-This repository contains the R Programming laboratory experiments completed as part of the B.Tech Computer Engineering curriculum at Vidyalankar Institute of Technology.
+This repository contains R Programming laboratory experiments and NPTEL practice notebooks completed as part of the B.Tech Computer Engineering curriculum at Vidyalankar Institute of Technology.
 
-The experiments cover data cleaning, data integration, statistical analysis, data visualization, customer segmentation, and other applications of R programming.
+The repository includes practical work on data cleaning, data integration, statistical analysis, data visualization, social network analysis, customer segmentation, and other applications of R programming.
 
 ## Course Objectives
 
@@ -12,7 +12,8 @@ The experiments cover data cleaning, data integration, statistical analysis, dat
 - Perform statistical analysis and interpret results.
 - Create visualizations using R libraries.
 - Explore data analytics techniques, including customer segmentation and network analysis.
-- Organize experiment code, datasets, reports, and outputs.
+- Practice R programming through weekly NPTEL notebooks.
+- Organize source code, notebooks, datasets, and reports for each experiment.
 
 ## Experiments
 
@@ -27,16 +28,38 @@ The experiments cover data cleaning, data integration, statistical analysis, dat
 | 07 | Customer Segmentation |
 | 08 | High-Performance Big Data Analytics with R |
 
-Each experiment is maintained in its own folder with the relevant README, source code or notebook, and supporting files where applicable.
+Each experiment has a dedicated folder containing its relevant README, code or notebook, and supporting files where applicable.
+
+## NPTEL Practice
+
+The `NPTEL-PRACTICE` folder contains R Programming practice notebooks for **Weeks 1–12**.
+
+| Week | Notebook |
+|---|---|
+| 1 | `R_Programming_Week_1_NPTEL_Practice.ipynb` |
+| 2 | `R_Programming_Week_2_NPTEL_Practice.ipynb` |
+| 3 | `R_Programming_Week_3_NPTEL_Practice.ipynb` |
+| 4 | `R_Programming_Week_4_NPTEL_Practice.ipynb` |
+| 5 | `R_Programming_Week_5_NPTEL_Practice.ipynb` |
+| 6 | `R_Programming_Week_6_NPTEL_Practice.ipynb` |
+| 7 | `R_Programming_Week_7_NPTEL_Practice.ipynb` |
+| 8 | `R_Programming_Week_8_NPTEL_Practice.ipynb` |
+| 9 | `R_Programming_Week_9_NPTEL_Practice.ipynb` |
+| 10 | `R_Programming_Week_10_NPTEL_Practice.ipynb` |
+| 11 | `R_Programming_Week_11_NPTEL_Practice.ipynb` |
+| 12 | `R_Programming_Week_12_NPTEL_Practice.ipynb` |
+
+These notebooks keep the weekly practice exercises organized for revision and reference.
 
 ## Software and Tools
 
-- **Language:** R
-- **Development Environment:** RStudio / Google Colab, as applicable
+- **Programming Language:** R
+- **Notebook Environment:** Google Colab / Jupyter Notebook, as applicable
+- **IDE:** RStudio, where applicable
 - **Libraries:** `ggplot2`, `dplyr`, `tidyr`, and other experiment-specific packages
 - **Version Control:** Git and GitHub
 
-*The packages and environment used may differ between experiments.*
+The software, libraries, and datasets may vary depending on the requirements of each experiment.
 
 ## Repository Structure
 
@@ -51,9 +74,24 @@ R-Programming-Lab/
 ├── Experiment-07-Customer-Segmentation/
 ├── Experiment-08-High-Performance-Big-Data-Analytics/
 ├── NPTEL-PRACTICE/
+│   ├── README.md
+│   ├── R_Programming_Week_1_NPTEL_Practice.ipynb
+│   ├── R_Programming_Week_2_NPTEL_Practice.ipynb
+│   ├── ...
+│   ├── R_Programming_Week_10_NPTEL_Practice.ipynb
+│   ├── R_Programming_Week_11_NPTEL_Practice.ipynb
+│   └── R_Programming_Week_12_NPTEL_Practice.ipynb
 ├── NPTEL-PRACTICE.md
 └── README.md
 ```
+
+## How to Use This Repository
+
+1. Open the folder for the experiment you want to study.
+2. Read its README for the objective, dataset, tasks, and implementation details.
+3. Open the R script or notebook.
+4. Install any required R packages and provide the necessary dataset.
+5. Run the code in the appropriate environment, such as RStudio or Google Colab.
 
 ## Author
 
@@ -61,6 +99,6 @@ R-Programming-Lab/
 B.Tech Computer Engineering  
 Vidyalankar Institute of Technology
 
-## Repository
+## GitHub Repository
 
-[GitHub — R Programming Lab](https://github.com/Sheshank-singh/R-Programming-Lab)
+[View R Programming Lab on GitHub](https://github.com/Sheshank-singh/R-Programming-Lab)
