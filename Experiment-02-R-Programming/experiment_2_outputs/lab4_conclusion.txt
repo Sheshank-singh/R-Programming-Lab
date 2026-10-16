@@ -1,0 +1,9 @@
+Lab 4 conclusion
+Rows in source dataset: 32561
+Rows after treatment: 32560
+Missing cells before treatment: 2
+Missing cells after treatment: 0
+Rows removed due to NaN: 1
+Impossible age values were converted to NA before numeric imputation.
+Blank categorical values were replaced with Unknown.
+Selected numeric variables were median-imputed.

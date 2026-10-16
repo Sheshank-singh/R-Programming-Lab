@@ -1,0 +1,5 @@
+Lab 3 conclusion
+Loop and vectorized outputs identical: TRUE
+Loop elapsed seconds: 0.0189999999999984
+Vectorized elapsed seconds: 0.00100000000000477
+Vectorized operations are generally concise and often faster for larger vectors; measured timings on this small dataset may not be stable.
